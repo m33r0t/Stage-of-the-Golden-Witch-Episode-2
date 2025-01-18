@@ -7,4 +7,4 @@ These subtitles are synced to the official release of the Stage of the Golden Wi
 The translations, timing, and editing were done by Meerot (@meerot_ on twitter) and Mushroom (@kin_mushroom on twitter)
 Translations were heavily sourced from both the official releases of the Umineko visual novel and manga, sub file was built using custom code as a base, and edited with Subtitle Edit.
 
-This is a nonprofit translation effort of media by 07th Expansion, all rights are reserved by the original copywright holders. 
+This is a nonprofit translation effort of media by 07th Expansion, all rights are reserved by the original copyright holders. 
